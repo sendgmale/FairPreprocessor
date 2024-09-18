@@ -22,6 +22,11 @@ MEPS16 - https://gitlab.liris.cnrs.fr/otouat/MEPS-HC/-/blob/main/h192.csv
 **The replicate folder contains the codes to replicate our results. 
 Replicate Package** -  https://drive.google.com/drive/folders/1Ls9fVj0Wf6Q_EsTbDmMwEEk0lDoimo1n?usp=sharing
 
+**Steps to run the replicate files**
+
+1. Download the package from this URL - https://drive.google.com/drive/folders/1Ls9fVj0Wf6Q_EsTbDmMwEEk0lDoimo1n?usp=sharing
+2. Run the jupyter notebook correspond to the dataset.
+
 *---------------------------------------------------------------------***
 
 **FairPreprocesor: Achieving Fairness vias Handling Imbalanced Data through Synthetic Data**
