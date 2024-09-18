@@ -1,3 +1,23 @@
+We utilized nine publicly available datasets. All datasets are available in the **Dataset** folder, except below, which were excluded due to size limitations.
+
+They can be obtained from the below URLs.
+
+MEPS15 - https://gitlab.liris.cnrs.fr/otouat/MEPS-HC/-/blob/main/h181.csv <br />
+MEPS16 - https://gitlab.liris.cnrs.fr/otouat/MEPS-HC/-/blob/main/h192.csv
+
+********************************************************************************************************
+
+1. Adult Income dataset - http://archive.ics.uci.edu/ml/datasets/Adult
+2. COMPAS - https://github.com/propublica/compas-analysis
+3. German Credit - https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
+4. Bank Marketing - https://archive.ics.uci.edu/ml/datasets/bank+marketing
+5. Default Credit - https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+6. Heart - https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+7. MEPS15 - https://meps.ahrq.gov/mepsweb/
+8. MEPS16 - https://meps.ahrq.gov/mepsweb/
+9. Student - https://archive.ics.uci.edu/ml/datasets/Student+Performance
+
+********************************************************************************************************
 
 **The replicate folder contains the codes to replicate our results. 
 Replicate Package** -  https://drive.google.com/drive/folders/1Ls9fVj0Wf6Q_EsTbDmMwEEk0lDoimo1n?usp=sharing
