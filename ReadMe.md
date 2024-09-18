@@ -1,3 +1,7 @@
+
+**The replicate folder contains the codes to replicate our results. 
+Replicate Package** -  https://drive.google.com/drive/folders/1Ls9fVj0Wf6Q_EsTbDmMwEEk0lDoimo1n?usp=sharing
+
 *---------------------------------------------------------------------***
 
 **FairPreprocesor: Achieving Fairness vias Handling Imbalanced Data through Synthetic Data**
