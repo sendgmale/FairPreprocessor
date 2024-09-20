@@ -46,6 +46,7 @@ The codes in the folder are named for the applicable scenarios. The Adult and CO
 
 <h1> Baselines </h1>
 -----------------------------------------------------
+
 **Fair-Smote: Proposed in the paper: Bias in Machine Learning Software: Why? How? What to Do?**
 Fair-Smote is a pre-processing method that uses the modified SMOTE method to make the distribution of sensitive features in the data set consistent, and then deletes biased data through situation testing.
 We use the code they provided in the code repository: https://github.com/joymallyac/Fair-SMOTE
