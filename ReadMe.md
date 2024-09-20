@@ -1,3 +1,8 @@
+<h1> FairPreprocessor </h1>
+
+This is a repository of work 'FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Label
+
+
 We utilized nine publicly available datasets. All datasets are available in the **Dataset** folder, except below, which were excluded due to size limitations.
 
 They can be obtained from the below URLs.
