@@ -1,9 +1,9 @@
 <h1> FairPreprocessor </h1>
 
-This is a repository of work 'FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Label
+This repository is for work **'FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Label'**.
 
-
-We utilized nine publicly available datasets. All datasets are available in the **Dataset** folder, except below, which were excluded due to size limitations.
+FairPreprocessor is a preprocessing technique which addresses two causes of bias - 'imbalanced data' and 'biased labels'. We utilized nine popular publicly available datasets.
+All datasets are available in the **Dataset** folder, except below, which were excluded due to size limitations.
 
 They can be obtained from the below URLs.
 
@@ -44,6 +44,7 @@ We use 9 datasets, all of which are widely used in fairness research: Adult, COM
 The replicate folder contains the codes to replicate our results. 
 The codes in the folder are named for the applicable scenarios. The Adult and COMPAS data sets include two protected attributes, so we divide them into two scenarios: Adult_sex (COMPAS_sex) and Adult_race (COMPAS_race).
 
+<h1> Baselines </h1>
 -----------------------------------------------------
 **Fair-Smote: Proposed in the paper: Bias in Machine Learning Software: Why? How? What to Do?**
 Fair-Smote is a pre-processing method that uses the modified SMOTE method to make the distribution of sensitive features in the data set consistent, and then deletes biased data through situation testing.
