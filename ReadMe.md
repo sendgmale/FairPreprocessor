@@ -5,7 +5,8 @@ This repository is for work **'FairPreprocessor: Better Fairness via Addressing 
 ********************************************************************************************************
 
 **Analyze Parameter Sensitivity: Include an analysis of how parameter choices, such as crossover rate ranges, affect the results to enhance transparency and reproducibility.**
-**Response:** https://docs.google.com/document/d/1dgXADXtxI4YEPrDR9AcpbpEkwyTjRVo5rl2deADYm_E/edit?tab=t.0
+The document below analyzes how parameter sensitivity affects fairness and performance in various learners (LGR, RF, and DT) across different datasets.
+https://docs.google.com/document/d/1dgXADXtxI4YEPrDR9AcpbpEkwyTjRVo5rl2deADYm_E/edit?tab=t.0
 
  ********************************************************************************************************
 
