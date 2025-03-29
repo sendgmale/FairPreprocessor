@@ -9,6 +9,12 @@ This repository is for work **'FairPreprocessor: Better Fairness via Addressing 
 
  ********************************************************************************************************
 
+**Some ablation experiments, as this method seems to be an improvement on Fair-SMOTE**
+The below document contains the ablation experiments:
+https://docs.google.com/document/d/12L6F8cI4oeqiYthCJTW40QuU6s56WG-MM43ZbhPmgAk/edit?usp=sharing 
+ 
+ ********************************************************************************************************
+
 FairPreprocessor is a preprocessing technique which addresses two causes of bias - 'imbalanced data' and 'biased labels'. We utilized nine popular publicly available datasets.
 All datasets are available in the **Dataset** folder, except below, which were excluded due to size limitations.
 
