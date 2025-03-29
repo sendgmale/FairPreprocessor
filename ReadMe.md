@@ -2,6 +2,9 @@
 
 This repository is for work **'FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Label'**.
 
+**Analyze Parameter Sensitivity: Include an analysis of how parameter choices, such as crossover rate ranges, affect the results to enhance transparency and reproducibility.**
+**Response:** https://docs.google.com/document/d/1dgXADXtxI4YEPrDR9AcpbpEkwyTjRVo5rl2deADYm_E/edit?tab=t.0
+ 
 FairPreprocessor is a preprocessing technique which addresses two causes of bias - 'imbalanced data' and 'biased labels'. We utilized nine popular publicly available datasets.
 All datasets are available in the **Dataset** folder, except below, which were excluded due to size limitations.
 
@@ -79,6 +82,3 @@ All codes are run on the Ubuntu Operating System.
 4. Scott-Knott Results of FairPreprocessor (Sum of three learner - Random Forest, Decision Tree, Logistic Regression) 
 https://docs.google.com/spreadsheets/d/1SUFIMdUu3bZFIOFehU9xBOCaleXxq-R2Pkosb5xzKdY/edit?gid=0#gid=0
 
-**Analyze Parameter Sensitivity: Include an analysis of how parameter choices, such as crossover rate ranges, affect the results to enhance transparency and reproducibility.**
-**Response:** https://docs.google.com/document/d/1dgXADXtxI4YEPrDR9AcpbpEkwyTjRVo5rl2deADYm_E/edit?tab=t.0
- 
