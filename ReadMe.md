@@ -5,12 +5,14 @@ This repository is for work **'FairPreprocessor: Better Fairness via Addressing 
 ********************************************************************************************************
 
 **Analyze Parameter Sensitivity: Include an analysis of how parameter choices, such as crossover rate ranges, affect the results to enhance transparency and reproducibility.**
+
 The document below analyzes how parameter sensitivity affects fairness and performance in various learners (LGR, RF, and DT) across different datasets.
 https://docs.google.com/document/d/1dgXADXtxI4YEPrDR9AcpbpEkwyTjRVo5rl2deADYm_E/edit?tab=t.0
 
  ********************************************************************************************************
 
-**Some ablation experiments, as this method seems to be an improvement on Fair-SMOTE**
+**Additional Ablation Studies on FairPreprocessor**
+
 The below document contains the ablation experiments:
 https://docs.google.com/document/d/12L6F8cI4oeqiYthCJTW40QuU6s56WG-MM43ZbhPmgAk/edit?usp=sharing 
  
