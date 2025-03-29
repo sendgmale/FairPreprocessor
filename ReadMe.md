@@ -78,3 +78,7 @@ All codes are run on the Ubuntu Operating System.
 3.  FairPreprocessor : Learner - Decision Tree Classifier :: https://docs.google.com/spreadsheets/d/1ZAp8_sZsE2ezWkXgDmaOc6ZgS3ASXumcvRL4l1S2NLM/edit?gid=2008628242#gid=2008628242
 4. Scott-Knott Results of FairPreprocessor (Sum of three learner - Random Forest, Decision Tree, Logistic Regression) 
 https://docs.google.com/spreadsheets/d/1SUFIMdUu3bZFIOFehU9xBOCaleXxq-R2Pkosb5xzKdY/edit?gid=0#gid=0
+
+**Analyze Parameter Sensitivity: Include an analysis of how parameter choices, such as crossover rate ranges, affect the results to enhance transparency and reproducibility.**
+**Response:** https://docs.google.com/document/d/1dgXADXtxI4YEPrDR9AcpbpEkwyTjRVo5rl2deADYm_E/edit?tab=t.0
+ 
