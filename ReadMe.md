@@ -1,9 +1,5 @@
 <h1> [IEEE Intelligent Systems 2025] FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels </h1>
 
-
-
-<h1> FairPreprocessor </h1>
-
 This repository is for work **'FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Label'**.
 
 ********************************************************************************************************
