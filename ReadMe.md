@@ -40,16 +40,6 @@ MEPS16 - https://gitlab.liris.cnrs.fr/otouat/MEPS-HC/-/blob/main/h192.csv
 
 ********************************************************************************************************
 
-**The replicate folder contains the codes to replicate our results. 
-Replicate Package** -  https://drive.google.com/drive/folders/1Ls9fVj0Wf6Q_EsTbDmMwEEk0lDoimo1n?usp=sharing
-
-**Steps to run the replicate files**
-
-1. Download the package from this URL - https://drive.google.com/drive/folders/1Ls9fVj0Wf6Q_EsTbDmMwEEk0lDoimo1n?usp=sharing
-2. Run the jupyter notebook correspond to the dataset.
-
-*---------------------------------------------------------------------***
-
 **FairPreprocesor: Achieving Fairness vias Handling Imbalanced Data through Synthetic Data**
 
 We use 9 datasets, all of which are widely used in fairness research: Adult, COMPAS, German Credit, Default, Heart Disease, Bank Marketing, Student Performance, MEPS15 and MEPS16. We provide these data sets in the "datasets" folder. For MEPS15 and MEPS16, they can be loaded through python's aif360 package:
