@@ -88,3 +88,12 @@ All codes are run on the Ubuntu Operating System.
 --------------------------------
 
 
+### Citation
+
+If you use our work, please cite:
+
+Hem Chandra Joshi and Sandeep Kumar,  
+**"FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels,"**  
+*IEEE Intelligent Systems*, 2025, pp. 1–15.  
+DOI: [10.1109/MIS.2025.3580459](https://doi.org/10.1109/MIS.2025.3580459)
+
