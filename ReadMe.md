@@ -87,11 +87,4 @@ All codes are run on the Ubuntu Operating System.
 
 --------------------------------
 
-**Results Excel Sheets**
-
-1.  FairPreprocessor : Learner -  Logistic Regression :: https://docs.google.com/spreadsheets/d/1i-jZxPchPLygyAaOu849jRdc1BO2VQQEGtVwMGH_kc8/edit?gid=2008628242#gid=2008628242
-2.  FairPreprocessor : Learner - Random Forest :: https://docs.google.com/spreadsheets/d/1K7wT13ykBbUHApN-gIWwK-aIxsWFLqRt8YjNyAeRtSE/edit?gid=2008628242#gid=2008628242
-3.  FairPreprocessor : Learner - Decision Tree Classifier :: https://docs.google.com/spreadsheets/d/1ZAp8_sZsE2ezWkXgDmaOc6ZgS3ASXumcvRL4l1S2NLM/edit?gid=2008628242#gid=2008628242
-4. Scott-Knott Results of FairPreprocessor (Sum of three learner - Random Forest, Decision Tree, Logistic Regression) 
-https://docs.google.com/spreadsheets/d/1SUFIMdUu3bZFIOFehU9xBOCaleXxq-R2Pkosb5xzKdY/edit?gid=0#gid=0
 
